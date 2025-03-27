@@ -1,6 +1,6 @@
 # Python_color-TriggerBot
 
-这是一个基于国服Valorante(无畏契约)实现的自动扳机的找色机器人
+这是一个基于国服Valorant(无畏契约)实现的自动扳机的找色机器人
 
 目前从未被封禁
 
